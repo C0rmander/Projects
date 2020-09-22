@@ -15,7 +15,7 @@ In this project I learned more about server side development and full stack deve
 I learned to POST to a server and GET from a server. More specifically I also learned how to
 setup jetty in Eclipse and use a java server.
 
-![Alt Text](https://github.com/C0rmander/Projects/blob/master/jettygraph/ezgif.com-gif-maker.gif)
+![Alt Text](https://github.com/C0rmander/Projects/blob/master/jettygraph/ezgif.com-gif-maker%20(1).gif)
 
 3. Cars GUI
 A graphical user interface that stores details about cars.
