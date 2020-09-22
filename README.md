@@ -18,4 +18,4 @@ setup jetty in Eclipse and use a java server.
 3. Cars GUI
 A graphical user interface that stores details about cars.
 You are allowed to add, remove and list the cars, make, model, registration number, millage and year of manufacture.
-In this project I learned to serialiise data, use maven and perform Junit testing.
+In this project I learned to serialise data, use maven and perform Junit testing.
