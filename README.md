@@ -20,12 +20,15 @@ This was during the initial test phase of the project when I was creating the fr
 
 
 ![Alt Text](https://github.com/C0rmander/Projects/blob/master/jettygraph/ezgif.com-gif-maker%20(2).gif)
-</br></br>
 This was when I got the draggable arrows to work and I got the java backend onboard:
 
 
 
 ![Alt Text](https://github.com/C0rmander/Projects/blob/master/jettygraph/ezgif.com-gif-maker%20(1).gif)
+
+
+
+
 
 3. Cars GUI
 A graphical user interface that stores details about cars.
