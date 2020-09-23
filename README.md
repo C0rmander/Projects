@@ -15,10 +15,16 @@ In this project I learned more about server side development and full stack deve
 I learned to POST to a server and GET from a server. More specifically I also learned how to
 setup jetty in Eclipse and use a java server.
 
-This was during the initial test phase of the project hwne I was creating the front end:
+This was during the initial test phase of the project when I was creating the front end:
+
+
+
 ![Alt Text](https://github.com/C0rmander/Projects/blob/master/jettygraph/ezgif.com-gif-maker%20(2).gif)
 
 This was when I got the draggable arrows to work and I got the java backend onboard:
+
+
+
 ![Alt Text](https://github.com/C0rmander/Projects/blob/master/jettygraph/ezgif.com-gif-maker%20(1).gif)
 
 3. Cars GUI
