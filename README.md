@@ -29,6 +29,12 @@ This was when I got the draggable arrows to work and I got the java backend onbo
 
 ![Alt Text](https://github.com/C0rmander/Projects/blob/master/jettygraph/ezgif.com-gif-maker%20(1).gif)
 
+this was when I got POST requests working and polished the front end to look more like a social network viualisation.
+I did this because I think it's interesting to visualise how a social network works in the background and this makes us think about
+our online use of these platforms and the implications that it has on other people.
+
+![Alt Text](https://github.com/C0rmander/Projects/blob/master/jettygraph/ezgif.com-gif-maker%20(3).gif)
+
 
 
 
